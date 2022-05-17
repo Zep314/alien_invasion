@@ -26,7 +26,7 @@ class Settings():
 
         # Темп ускорения игры
         self.speedup_scale = 1.1
-        self.initialize_dynamic_settings()
+        #self.initialize_dynamic_settings()
 
 
         ###############   Страница 300!!!!!!!!!!1
